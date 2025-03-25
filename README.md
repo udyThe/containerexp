@@ -46,15 +46,15 @@ Welcome to **containerexp**! This repository is my personal collection of contai
    - **Goal:** Deploy a containerized Streamlit application on an AWS EC2 instance for seamless and scalable web app hosting.  
    - **Key Focus:** AWS networking, Docker containerization, cloud deployment, and security.
    
-**11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/udyThe/containerexp/tree/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes) ☸️**  
+**11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/udyThe/containerexp/tree/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes)**  
    - **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.  
    - **Key Focus:** Service discovery, load balancing, and containerized microservices deployment.  
 
-**12. [Microservices Architecture using Docker Swarm](https://github.com/udyThe/containerexp/tree/main/12.%20Microservices%20Architecture%20using%20Docker%20Swarm) ⚓**  
+**12. [Microservices Architecture using Docker Swarm](https://github.com/udyThe/containerexp/tree/main/12.%20Microservices%20Architecture%20using%20Docker%20Swarm)**  
    - **Goal:** Build and deploy a scalable microservices-based application using Docker Swarm.  
    - **Key Focus:** Load balancing, service discovery, and distributed application management.  
 
-**13. [Bakery Foundation Example on Windows](https://github.com/udyThe/containerexp/tree/main/13.%20Bakery%20Foundation%20Example%20on%20Windows) 🍞**  
+**13. [Bakery Foundation Example on Windows](https://github.com/udyThe/containerexp/tree/main/13.%20Bakery%20Foundation%20Example%20on%20Windows)**  
    - **Goal:** Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9.  
    - **Key Focus:** Image automation, AWS infrastructure provisioning, and hands-on cloud deployment.  
 
